@@ -38,7 +38,7 @@
 
  Instructions:
 
- (1) Copy the NCD folder to your Desktop.
+ (1) Import and extract the NCD folder to your Desktop.
 
    
  (2) Run the "Installer.exe" file. To do this, right-click on
@@ -49,4 +49,4 @@
      right-click on the file and select "Run as administrator".
         
 __________________________________________________________________
-(C) 2019-2024 National Control Devices, LLC. All rights reserved.
+© 2019-2024 National Control Devices, LLC. All rights reserved.
